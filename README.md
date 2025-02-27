@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning Cloud Computing and JSHT
 <!--
 **vigiapriliansyah/vigiapriliansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
