@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <h3 align="left">Github Stats:</h3>  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vigiapriliansyah&show_icons=true&theme=gotham" alt="vigiapriliansyah" />
-<p><img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigiapriliansyah&show_icons=true&locale=en&layout=compact" alt="vigiapriliansyah" /></p>
+<p><img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigiapriliansyah&show_icons=true&theme=gotham" alt="vigiapriliansyah" /></p>
