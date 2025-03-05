@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Cloud Computing and JSHT. 
+- 🌱 I’m currently learning Cloud Computing and Javascript. 
 <!--
 **vigiapriliansyah/vigiapriliansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
