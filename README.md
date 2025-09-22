@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigiapriliansyah&layout=compact&theme=radical)
 
-![Streak](https://streak-stats.demolab.com?user=vigiapriliansyah&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vigiapriliansyah&theme=tokyonight)](https://git.io/streak-stats)
